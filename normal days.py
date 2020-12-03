@@ -1,3 +1,7 @@
+#task done by k.mounika
+#automatic bell for normal days
+#location at codegnan
+
 import RPi.GPIO as m
 import time as t
 m.setmode(m.BCM)
